@@ -1,0 +1,36 @@
+.NavbarContainer {
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.nav-text-megasena {
+    font-family: "Roboto";
+    text-decoration: none;
+    margin-left: 25px;
+    color: #209869;
+    font-weight: bold;
+    font-size: large;
+
+}
+.nav-text-lotofacil {
+    font-family: "Roboto";
+    text-decoration: none;
+    margin-left: 15px;
+    color: #930089;
+    font-weight: bold;
+    font-size: large;
+    
+}
+.nav-text-quina {
+    font-family: "Roboto";
+    text-decoration: none;
+    margin-left: 25px;
+    color: #260085;
+    font-weight: bold;
+    font-size: large;
+}
+
+.active {
+    color: #ddd;
+    pointer-events: none;
+}

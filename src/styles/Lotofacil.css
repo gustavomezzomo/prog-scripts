@@ -1,0 +1,64 @@
+.row {
+    display: flex;
+}
+
+.column {
+    max-width: 30rem;
+    padding: 30px;
+    flex: 50%;
+}
+
+.text-lotofacil {
+    font-family: "Roboto";
+    margin-left: 10px;
+    color: #930089;
+    font-weight: bold;
+    font-size: x-large;
+}
+
+.text-premio-loto {
+    font-family: "Roboto";
+    margin-left: 12px;
+    color: #930089;
+    font-weight: bold;
+    font-size: large;
+    margin-left: 45px;
+}
+.hrLoto{
+    width: 75%;
+    margin-left: -20px; 
+}
+p {
+    font-family: "Roboto";
+    color: #4c556c;
+    font-size: small;
+}
+
+.image-trevo {
+    display: flex;
+    align-items: center;
+}
+
+.text-acc {
+    font-family: "Roboto";
+    color: #0066b3;
+    margin-top: 15px;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.numbers-loto{
+    font-family: "Roboto";
+    margin-right: 50px;
+    display: inline-flex;
+    font-size: x-large;
+    color: #930089;
+    font-weight: lighter;
+    align-content: center;
+}
+
+.row-numbers-loto {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
